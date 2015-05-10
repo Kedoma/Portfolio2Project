@@ -11,12 +11,12 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	color: #666666;
+	color: #666;
 	font-weight: 400;
 }
 
 .text-muted {
-	color: #999999;
+	color: #999;
 }
 
 .text-thin {
@@ -48,8 +48,9 @@ body {
 		width: 16.6666%;
 		min-width: 95px;
 		float: left;
-}
+	}
 	.mobile10 {
 		width: 83.3333%;
 		margin-left: 16.6666%;
+	}
 }

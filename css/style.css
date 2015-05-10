@@ -1,9 +1,7 @@
 * {
 	font-family: 'Open Sans';
-}
-
-body {
-	font-family: Open Sans
+	font-style: normal;
+	font-variant: normal;
 }
 
 img {
@@ -12,10 +10,7 @@ img {
 }
 
 h1 {
-	font-family: 'Open Sans';
 	font-size: 3em;
-	font-style: normal;
-	font-variant: normal;
 	font-weight: lighter;
 	margin: 0;
 	text-transform: uppercase;
@@ -23,20 +18,14 @@ h1 {
 }
 
 h2 {
-	font-family: 'Open Sans';
 	font-size: 2em;
-	font-style: normal;
-	font-variant: normal;
 	font-weight: 300;
 	margin: 0;
 	color: #999999;
 }
 
 h3 {
-	font-family: 'Open Sans';
 	font-size: 2em;
-	font-style: normal;
-	font-variant: normal;
 	font-weight: 100;
 	margin: 0;
 	text-transform: uppercase;
@@ -44,10 +33,7 @@ h3 {
 }
 
 h4 {
-	font-family: 'Open Sans';
 	font-size: 1em;
-	font-style: normal;
-	font-variant: normal;
 	font-weight: 100;
 	margin: 0;
 	text-transform: uppercase;
@@ -55,10 +41,7 @@ h4 {
 }
 
 p {
-	font-family: 'Open Sans';
 	font-size: 1em;
-	font-style: normal;
-	font-variant: normal;
 	font-weight: 100;
 	margin: 0;
 	color: #666666;
