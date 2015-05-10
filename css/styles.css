@@ -1,0 +1,55 @@
+* {
+	font-family: 'Open Sans';
+}
+
+
+/*
+ *
+ * Body
+ *
+ */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #666666;
+	font-weight: 400;
+}
+
+.text-muted {
+	color: #999999;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 4em;
+}
+
+.title-logo {
+	margin-top: 20px;
+	max-width: 100%;
+  	height: auto;
+}
+
+
+
+/*
+ *
+ * Custom Mobile Head Style
+ *
+ */
+
+
+
+@media (max-width: 768px) {
+	.mobile2 {
+		width: 16.6666%;
+		min-width: 95px;
+		float: left;
+}
+	.mobile10 {
+		width: 83.3333%;
+		margin-left: 16.6666%;
+}
