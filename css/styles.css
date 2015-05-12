@@ -1,5 +1,5 @@
-* {
-	font-family: 'Open Sans';
+*
+	font-family: "Open Sans";
 }
 
 
@@ -10,7 +10,7 @@
  */
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: "Open Sans", sans-serif;
 	color: #666;
 	font-weight: 400;
 }
